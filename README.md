@@ -24,6 +24,12 @@
 <a href = "https://github.com/maywngml">
   <img src="https://avatars.githubusercontent.com/u/50205928?s=400&v=4" alt="ju-hee" width="80" style="max-width:100%" />
 </a>
+<a href = "https://github.com/devGo20">
+  <img src="https://avatars.githubusercontent.com/u/63961781?s=400&v=4" alt="devGo20" width="80" style="max-width:100%" />
+</a>
+<a href = "https://github.com/JeongWu-Jane">
+  <img src="https://avatars.githubusercontent.com/u/95577123?s=400&v=4" alt="JeongWu-Jane" width="80" style="max-width:100%" />
+</a>
 
 ## 👩‍💻 To Solve
 |Week|1|2|3|
