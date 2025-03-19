@@ -28,4 +28,4 @@
 ## 👩‍💻 To Solve
 |Week|1|2|3|
 |:---:|:---:|:---:|:---:|
-|Week 1|[15650](https://www.acmicpc.net/problem/15650)||| |
+|Week 1|[15650](https://www.acmicpc.net/problem/15650)|[1149](https://www.acmicpc.net/problem/1149)|||
