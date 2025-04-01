@@ -27,7 +27,7 @@ function solution(n, costs) {
     dp[i][2] += costs[i][2] + Math.min(dp[i - 1][0], dp[i - 1][1]);
   }
 
-  return Math.min(dp[n - 1][0], Math.min(dp[n - 1][1], dp[n - 1][2]));
+  return Math.min(...dp[n - 1]);
 }
 
 console.log(solution(inputN, inputLine));
