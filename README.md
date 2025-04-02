@@ -30,3 +30,4 @@
 |:---:|:---:|:---:|:---:|
 |Week 1|[N과 M (2)](https://www.acmicpc.net/problem/15650)|[RGB거리](https://www.acmicpc.net/problem/1149)|[강의실 배정](https://www.acmicpc.net/problem/11000)|
 |Week 2|[유기농 배추](https://www.acmicpc.net/problem/1012)|[예산](https://www.acmicpc.net/problem/2512)|[A와B](https://www.acmicpc.net/problem/12904)|
+|Week 3|[집합의 표현](https://www.acmicpc.net/problem/1717)|||
