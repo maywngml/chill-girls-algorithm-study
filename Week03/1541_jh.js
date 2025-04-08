@@ -19,9 +19,7 @@ function solution(s) {
 
   nums.push(subTotal);
 
-  let result = nums[0];
-
-  nums.shift();
+  let result = nums.shift();
   // 배열에 있는 숫자들은 모두 -로 연결해서 계산
   result += nums.reduce((total, num) => total - num, 0);
 
