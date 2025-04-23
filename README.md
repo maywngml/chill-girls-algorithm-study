@@ -33,4 +33,4 @@
 |Week 3|[집합의 표현](https://www.acmicpc.net/problem/1717)|[포도주 시식](https://www.acmicpc.net/problem/2156)|[잃어버린 괄호](https://www.acmicpc.net/problem/1541)|
 |Week 4|[문자열 폭발](https://www.acmicpc.net/problem/9935)|[DNA 비밀번호](https://www.acmicpc.net/problem/12891)|[01타일](https://www.acmicpc.net/problem/1904)|
 |Week 5|[카드 구매하기](https://www.acmicpc.net/problem/11052)|[회장 뽑기](https://www.acmicpc.net/problem/2660)|
-|Week 6|[ATM](https://www.acmicpc.net/problem/11399)|
+|Week 6|[ATM](https://www.acmicpc.net/problem/11399)|[최소비용 구하기](https://www.acmicpc.net/problem/1916)|
