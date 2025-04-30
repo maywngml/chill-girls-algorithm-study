@@ -34,4 +34,4 @@
 |Week 4|[문자열 폭발](https://www.acmicpc.net/problem/9935)|[DNA 비밀번호](https://www.acmicpc.net/problem/12891)|[01타일](https://www.acmicpc.net/problem/1904)|
 |Week 5|[카드 구매하기](https://www.acmicpc.net/problem/11052)|[회장 뽑기](https://www.acmicpc.net/problem/2660)|
 |Week 6|[ATM](https://www.acmicpc.net/problem/11399)|[최소비용 구하기](https://www.acmicpc.net/problem/1916)|[용돈 관리](https://www.acmicpc.net/problem/6236)
-|Week 7|[에디터](https://www.acmicpc.net/problem/1406)|||
+|Week 7|[에디터](https://www.acmicpc.net/problem/1406)|[숨바꼭질3](https://www.acmicpc.net/problem/13549)||
